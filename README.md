@@ -1,1 +1,1 @@
-# Amazon_Power_BI_Project_1
+# Amazon-Sales-Data-Dashboard-PowerBi
